@@ -11,10 +11,12 @@ Este projeto foi desenvolvido com as seguintes tecnologias:</br>
 -CSS
 
 <h2 align="left"> 📄 Como Usar </h2>
-Você pode acessar o site pelo GitHub Pages [aqui](https://rannygazola.github.io/ChallengeAmigoSecreto/).
+
+[Acesse o site pelo GitHub Pages aqui](https://rannygazola.github.io/ChallengeAmigoSecreto/)
+
 1. Insira o nome de um amigo no campo "Digite um nome".
 2. Clique em adicionar e acompanhe os nomes incluídos na parte inferior.
-3. Após incluir todos os nomes, clique em "Sortear amigo", o amigo sorteado irá aparecer em verde na parte inferior.
+3. Após incluir todos os nomes, clique em "Sortear amigo". O amigo sorteado irá aparecer em verde na parte inferior.
 4. Para iniciar um novo sorteio, clique em "Novo sorteio".
  </br>
  </br>
