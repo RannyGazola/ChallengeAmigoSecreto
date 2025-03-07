@@ -7,7 +7,8 @@ Este projeto foi desenvolvido para a fase de seleção do programa ONE - Oracle 
 <h2 align="left"> 🚀 Tecnologias </h2>
 Este projeto foi desenvolvido com as seguintes tecnologias:</br>
 -Java</br>
--HTML
+-HTML</br>
+-CSS
 
 <h2 align="left"> 📄 Como Usar </h2>
 
